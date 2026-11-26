@@ -21,5 +21,5 @@ npx wrangler secret put SALT              # 随便输一串字符，用来给 IP
 npm run deploy
 ```
 
-部署后得到 `https://xiaodou-codepool.<你的子域>.workers.dev`。
+线上地址：https://xiaodou.juzifelix6985.workers.dev
 国内访问 workers.dev 不稳定，建议在 Cloudflare 里绑定一个自己的域名（Workers → 设置 → 域和路由）。

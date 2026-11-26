@@ -1,8 +1,8 @@
-name = "xiaodou-codepool"
+name = "xiaodou"
 main = "src/worker.js"
 compatibility_date = "2026-11-01"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "xiaodou-codepool"
-database_id = "REPLACE_WITH_YOUR_D1_ID"
+database_name = "xiaodou"
+database_id = "a65164ed-51d9-47f1-ae4b-605ca6b27635"
